@@ -8,7 +8,7 @@
   Exemplo: <img src="./banner.jpg" alt="Tecnologia Banner" width="800"/>
 -->
 <p align="center">
-  <img src="auzqQElu5ZSC.jpg" alt="Tecnologia Banner" width="800"/>
+  <img src="imagem.jpg" alt="Tecnologia Banner" width="800"/>
   <!-- Banner Desativado Temporariamente - Ative conforme instrução acima -->
 </p>
 
