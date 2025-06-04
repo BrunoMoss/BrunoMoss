@@ -8,11 +8,11 @@
   Exemplo: <img src="./banner.jpg" alt="Tecnologia Banner" width="800"/>
 -->
 <p align="center">
-  <!-- <img src="LINK_PARA_SUA_IMAGEM_AQUI.jpg" alt="Tecnologia Banner" width="800"/> -->
+  <img src="auzqQElu5ZSC.jpg" alt="Tecnologia Banner" width="800"/>
   <!-- Banner Desativado Temporariamente - Ative conforme instrução acima -->
 </p>
 
-<h1 align="center">Olá! 👋 Bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">Olá! Bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
   <em>Desenvolvedor focado em Python, API, análise de dados e inteligência artificial.</em>
