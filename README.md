@@ -12,7 +12,7 @@
   <!-- Banner Desativado Temporariamente - Ative conforme instrução acima -->
 </p>
 
-<h1 align="center">Olá!🤝Bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">Olá! 👋 Bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
   <em>Desenvolvedor focado em Python, API, análise de dados e inteligência artificial.</em>
@@ -72,7 +72,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-## 💥 Projetos em Destaque
+## ✨ Projetos em Destaque
 
 Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades:
 
